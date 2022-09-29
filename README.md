@@ -29,6 +29,7 @@ npm run test:unit
 ```
 cd backend
 pip install -i requirements.txt 
+python manage.py migrate
 ```
 ### Start dev server
 ```
