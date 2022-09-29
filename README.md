@@ -1,4 +1,4 @@
-# test-task-djang-vue-202209
+# test-task-django-vue-202209
 
 ## Front setup
 ```
